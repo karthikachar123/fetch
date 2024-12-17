@@ -1,3 +1,4 @@
+//changing
 async function get(event) {
     event.preventDefault();
   const response = await fetch("http://localhost:8080/o/headless-delivery/v1.0/sites/20119/blog-postings",{
